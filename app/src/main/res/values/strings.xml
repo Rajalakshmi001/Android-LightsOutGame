@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="button_text">New Game</string>
+    <string name="message_start">Make the buttons match</string>
+    <plurals name="message_format">
+        <item quantity="one">You have taken %d turn</item>
+        <item quantity="other">You have taken %d turns</item>
+    </plurals>
+    <string name="you_win">You won!</string>
+    <string name="space">" "</string>
+</resources>
